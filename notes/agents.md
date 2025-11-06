@@ -1,1 +1,2 @@
 - 2025-11-01: update reading list (agents)
+- 2025-11-06: clean up (agents)
