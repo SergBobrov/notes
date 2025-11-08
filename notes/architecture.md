@@ -1,1 +1,2 @@
 - 2025-11-06: update reading list (architecture)
+- 2025-11-08: update index (architecture)
