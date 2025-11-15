@@ -1,2 +1,3 @@
 - 2025-11-03: update notes (evals)
 - 2025-11-07: notes on prompts (evals)
+- 2025-11-15: add todos (evals)
