@@ -2,3 +2,4 @@
 - 2025-11-08: update index (architecture)
 - 2025-11-15: reorganize sections (architecture)
 - 2025-11-19: add todos (architecture)
+- 2025-11-24: notes on prompts (architecture)
