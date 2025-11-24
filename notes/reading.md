@@ -1,1 +1,2 @@
 - 2025-11-14: add links (reading)
+- 2025-11-24: add ideas (reading)
