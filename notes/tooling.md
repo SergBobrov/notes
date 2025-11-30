@@ -1,1 +1,2 @@
 - 2025-11-18: fix typo (tooling)
+- 2025-11-30: add links (tooling)
