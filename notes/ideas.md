@@ -1,1 +1,2 @@
 - 2025-11-18: minor edits (ideas)
+- 2025-12-02: notes on agents (ideas)
