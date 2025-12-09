@@ -5,3 +5,4 @@
 - 2025-11-24: notes on prompts (architecture)
 - 2025-11-28: add todos (architecture)
 - 2025-11-30: add todos (architecture)
+- 2025-12-09: notes on agents (architecture)
