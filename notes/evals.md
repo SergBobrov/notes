@@ -3,3 +3,4 @@
 - 2025-11-15: add todos (evals)
 - 2025-11-26: minor edits (evals)
 - 2025-11-28: reorganize sections (evals)
+- 2025-12-12: add links (evals)
