@@ -2,3 +2,4 @@
 - 2025-11-24: add todos (workflow)
 - 2025-11-28: add notes (workflow)
 - 2025-12-05: update reading list (workflow)
+- 2025-12-13: update index (workflow)
