@@ -2,3 +2,4 @@
 - 2025-11-24: add ideas (reading)
 - 2025-12-07: notes on agents (reading)
 - 2025-12-16: update notes (reading)
+- 2025-12-16: notes on prompts (reading)
