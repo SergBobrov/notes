@@ -3,3 +3,4 @@
 - 2025-12-07: clean up (tooling)
 - 2025-12-14: notes on agents (tooling)
 - 2025-12-20: reorganize sections (tooling)
+- 2025-12-20: update reading list (tooling)
