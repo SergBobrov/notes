@@ -4,3 +4,4 @@
 - 2025-11-26: update index (agents)
 - 2025-12-14: update reading list (agents)
 - 2025-12-17: notes on prompts (agents)
+- 2025-12-23: notes on prompts (agents)
