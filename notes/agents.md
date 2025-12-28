@@ -5,3 +5,4 @@
 - 2025-12-14: update reading list (agents)
 - 2025-12-17: notes on prompts (agents)
 - 2025-12-23: notes on prompts (agents)
+- 2025-12-28: clean up (agents)
