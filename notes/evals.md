@@ -5,3 +5,4 @@
 - 2025-11-28: reorganize sections (evals)
 - 2025-12-12: add links (evals)
 - 2025-12-25: clean up (evals)
+- 2025-12-31: notes on prompts (evals)
