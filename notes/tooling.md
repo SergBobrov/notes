@@ -6,3 +6,4 @@
 - 2025-12-20: update reading list (tooling)
 - 2025-12-25: update reading list (tooling)
 - 2025-12-28: add ideas (tooling)
+- 2026-01-02: fix typo (tooling)
