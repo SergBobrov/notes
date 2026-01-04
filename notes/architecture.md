@@ -8,3 +8,4 @@
 - 2025-12-09: notes on agents (architecture)
 - 2025-12-11: add notes (architecture)
 - 2025-12-20: update reading list (architecture)
+- 2026-01-04: add notes (architecture)
