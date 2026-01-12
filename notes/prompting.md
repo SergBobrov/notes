@@ -5,3 +5,4 @@
 - 2025-11-30: fix typo (prompting)
 - 2025-12-12: add links (prompting)
 - 2026-01-10: refine wording (prompting)
+- 2026-01-12: refine wording (prompting)
