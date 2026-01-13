@@ -4,3 +4,4 @@
 - 2025-12-05: update reading list (workflow)
 - 2025-12-13: update index (workflow)
 - 2026-01-07: minor edits (workflow)
+- 2026-01-13: update reading list (workflow)
