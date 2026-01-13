@@ -8,3 +8,4 @@
 - 2025-12-28: add ideas (tooling)
 - 2026-01-02: fix typo (tooling)
 - 2026-01-10: notes on prompts (tooling)
+- 2026-01-13: update notes (tooling)
