@@ -4,3 +4,4 @@
 - 2025-12-16: update notes (reading)
 - 2025-12-16: notes on prompts (reading)
 - 2025-12-23: add ideas (reading)
+- 2026-01-19: fix typo (reading)
