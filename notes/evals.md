@@ -7,3 +7,4 @@
 - 2025-12-25: clean up (evals)
 - 2025-12-31: notes on prompts (evals)
 - 2026-01-21: refine wording (evals)
+- 2026-01-22: update reading list (evals)
