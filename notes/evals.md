@@ -8,3 +8,4 @@
 - 2025-12-31: notes on prompts (evals)
 - 2026-01-21: refine wording (evals)
 - 2026-01-22: update reading list (evals)
+- 2026-01-25: notes on prompts (evals)
