@@ -7,3 +7,4 @@
 - 2026-01-10: refine wording (prompting)
 - 2026-01-12: refine wording (prompting)
 - 2026-01-21: notes on prompts (prompting)
+- 2026-01-26: update reading list (prompting)
