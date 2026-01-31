@@ -6,3 +6,4 @@
 - 2025-12-23: add ideas (reading)
 - 2026-01-19: fix typo (reading)
 - 2026-01-19: add examples (reading)
+- 2026-01-31: clean up (reading)
