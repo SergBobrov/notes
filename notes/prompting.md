@@ -8,3 +8,4 @@
 - 2026-01-12: refine wording (prompting)
 - 2026-01-21: notes on prompts (prompting)
 - 2026-01-26: update reading list (prompting)
+- 2026-01-31: add links (prompting)
