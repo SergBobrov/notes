@@ -11,3 +11,4 @@
 - 2026-01-25: notes on prompts (evals)
 - 2026-01-29: add links (evals)
 - 2026-02-02: update reading list (evals)
+- 2026-02-02: update notes (evals)
