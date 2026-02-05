@@ -12,3 +12,4 @@
 - 2026-01-29: add links (evals)
 - 2026-02-02: update reading list (evals)
 - 2026-02-02: update notes (evals)
+- 2026-02-05: add todos (evals)
