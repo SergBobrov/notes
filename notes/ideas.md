@@ -3,3 +3,4 @@
 - 2026-01-02: update notes (ideas)
 - 2026-01-10: update reading list (ideas)
 - 2026-01-16: clean up (ideas)
+- 2026-02-07: add examples (ideas)
