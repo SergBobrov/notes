@@ -6,3 +6,4 @@
 - 2026-01-07: minor edits (workflow)
 - 2026-01-13: update reading list (workflow)
 - 2026-01-25: add todos (workflow)
+- 2026-02-08: update index (workflow)
