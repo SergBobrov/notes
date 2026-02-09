@@ -7,3 +7,4 @@
 - 2025-12-23: notes on prompts (agents)
 - 2025-12-28: clean up (agents)
 - 2026-01-02: update index (agents)
+- 2026-02-09: add todos (agents)
