@@ -8,3 +8,4 @@
 - 2025-12-28: clean up (agents)
 - 2026-01-02: update index (agents)
 - 2026-02-09: add todos (agents)
+- 2026-02-18: minor edits (agents)
