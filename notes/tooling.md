@@ -9,3 +9,4 @@
 - 2026-01-02: fix typo (tooling)
 - 2026-01-10: notes on prompts (tooling)
 - 2026-01-13: update notes (tooling)
+- 2026-02-21: add links (tooling)
