@@ -10,3 +10,4 @@
 - 2026-01-10: notes on prompts (tooling)
 - 2026-01-13: update notes (tooling)
 - 2026-02-21: add links (tooling)
+- 2026-02-24: clean up (tooling)
