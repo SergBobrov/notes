@@ -11,3 +11,4 @@
 - 2026-02-18: minor edits (agents)
 - 2026-02-21: update notes (agents)
 - 2026-02-21: add links (agents)
+- 2026-02-27: refine wording (agents)
