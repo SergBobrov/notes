@@ -9,3 +9,4 @@
 - 2026-01-31: clean up (reading)
 - 2026-02-07: update notes (reading)
 - 2026-02-09: update notes (reading)
+- 2026-02-27: clean up (reading)
