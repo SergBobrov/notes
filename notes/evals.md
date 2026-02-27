@@ -15,3 +15,4 @@
 - 2026-02-05: add todos (evals)
 - 2026-02-10: update reading list (evals)
 - 2026-02-15: add todos (evals)
+- 2026-02-27: fix typo (evals)
